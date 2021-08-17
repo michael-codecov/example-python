@@ -1,4 +1,5 @@
 def smile():
+    print("A code change")
     return ":)"
 
 def frown():
