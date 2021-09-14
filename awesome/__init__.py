@@ -4,5 +4,5 @@ def smile():
 
 def frown():
     dummyString = "Adds more untested code"
-    dummyString.lower().upper()
+    dummyString.lower()
     return ":("
