@@ -3,5 +3,5 @@ def smile():
 
 def frown():
     untested = ":("
-    untested.lower()
+    untested.upper()
     return ":("
